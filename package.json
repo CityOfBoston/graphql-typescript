@@ -1,5 +1,5 @@
 {
-  "name": "@cityofboston/graphql-typescript",
+  "name": "graphql-typescript",
   "version": "0.0.0",
   "description": "GraphQL typing utilities",
   "private": true,
